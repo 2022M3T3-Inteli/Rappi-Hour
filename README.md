@@ -32,37 +32,38 @@ Seu principal objetivo é facilitar o processo de análise dos colaboradores que
 
 - Raiz<br><br>
 | --> documentos<br>
-  &emsp;| --> antigos<br>
-  &emsp;|  GDD Grupo 4.pdf<br>
-  &emsp;|  GDD Grupo 4.docx<br>
-| --> executáveis<br>
-  &emsp;| --> windows<br>
-  &emsp;| --> html<br>
-| --> imagens<br>
-| --> src<br>
-    &emsp;| --> Game<br>
+  &emsp;|  PMD Grupo 4.pdf<br>
+  &emsp;|  PMD Grupo 4.docx<br>
+| --> Notebooks<br>
+  &emsp;| --> Análise Exploratória<br>
+  &emsp;| --> Feature Engineerig<br>
+  &emsp;| --> Algoritmos de Machine Learning <br>
 | readme.md<br>
 
 - 📁 Projeto4<br>
 
 ## 🗃 Histórico de lançamentos (versões)
 
-- 6.0 - 18/06/2020
-  - Preenchimento do README.md
-  - Revisão dos itens preenchidos previamente no WAD
-- 5.0 - 13/06/2020
-  - Preenchimento dos itens 7 e 8 do WAD
-- 4.0 - 31/05/2022
-  - Preenchimento dos itens 4 e 6 do WAD
-  - Conclusão do desenvolvimento do backend
-- 3.0 - 17/05/2022
-  - Preenchimento do item 5 do WAD
-  - Conclusão do desenvolvimento do frontend
-  - Início do desenvolvimento do backend
-- 2.0 - 03/05/2022
-  - Preenchimento dos itens 1 a 3 do WAD
-  - Início do desenvolvimento do frontend
-- 1.0 - 26/04/2022
+- 7.0 - 07/09/2022
+  - Preenchimento das secções 4.4 (Modelagem) e 4.5 (Avaliação)
+
+- 6.0 - 20/08/2020
+  - Adicionando o mapa da Jornada do Usuário. (seção 4.1.7)
+
+- 5.0 - 17/08/2020
+  - Adicionando as Personas (seção 4.1.6)
+
+- 4.0 - 14/08/2022
+  - Atualização da seção 4.2
+
+- 3.0 - 10/08/2022
+  - Atualização da documentação: Seções 2; 4.1.3; 4.1.4; 4.2 
+
+- 2.0 - 09/08/2022
+  - Atualização da Matriz de Riscos
+  - Atualização da Análise de Indústria.
+
+- 1.0 - 02/08/2022
   - Projeto iniciado
 
 ## 🎯 Exemplos de uso
