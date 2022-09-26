@@ -44,6 +44,9 @@ Seu principal objetivo é facilitar o processo de análise dos colaboradores que
 
 ## 🗃 Histórico de lançamentos (versões)
 
+- 8.0 - 20/09/2022
+  - Alteração nas secções 4.4 (Modelagem) e 4.5 (Avaliação)
+
 - 7.0 - 07/09/2022
   - Preenchimento das secções 4.4 (Modelagem) e 4.5 (Avaliação)
 
@@ -67,6 +70,8 @@ Seu principal objetivo é facilitar o processo de análise dos colaboradores que
   - Projeto iniciado
 
 ## 🎯 Exemplos de uso
+
+  O Rappi Hour Predictive Model é uma ferramenta que visa predizer se um entregador sairá ou não da plataforma mediante métricas estabelecidas e, desta forma, contribuir com a elaboração de estratégias que evitem esse tipo de ocorrência, tal como um aumento na valor recebido pelo entregador nos pedidos feitos, por exemplo.
 
 ## 📋 Licença
 
