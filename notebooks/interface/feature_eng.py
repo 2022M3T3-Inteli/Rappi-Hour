@@ -39,7 +39,8 @@ def feature_eng(earnings, supply, infos_gerais, attendance_rate,
     filter = df_churn__["ID"].to_list()
     mask = df_info_["ID"].isin(filter)
     column_name = "IS_ACTIVE"
-    df_info_.loc[mask, column_name] = "Quasi"
+    df_info_.loc[mask, column_name] = "Quasi" 
+    
 
     filter = df_info_["ID"].to_list()
     mask = ~df_churn__["ID"].isin(filter)
