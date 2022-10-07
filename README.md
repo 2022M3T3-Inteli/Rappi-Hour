@@ -30,22 +30,33 @@ Seu principal objetivo é facilitar o processo de análise dos colaboradores que
 
 ## 📁 Estrutura de pastas
 
-- Raiz<br><br>
-| --> documentos<br>
+### Raiz<br>
+| --> Documentos<br>
+  &emsp;|  📁 Antigos (Versões anteriores) <br>
   &emsp;|  PMD Grupo 4.pdf<br>
-  &emsp;|  PMD Grupo 4.docx<br>
+  &emsp;|  PMD Grupo 4.docx<br><br>
 | --> Notebooks<br>
-  &emsp;| --> Análise Exploratória<br>
-  &emsp;| --> Feature Engineerig<br>
-  &emsp;| --> Algoritmos de Machine Learning <br>
+  &emsp;| --> Sprint 1 — Análise Exploratória<br>
+  &emsp;| --> Sprint 2 — Feature Engineerig<br>
+  &emsp;| --> Sprint 3 — Modelos de Machine Learning Selecionados <br>
+  &emsp;| --> Sprint 4 — Modelos Selecionados com hiperparametrização, Validação Cruzada dos Modelos, Escolha do Modelo LGBM <br>
+  &emsp;| --> Sprint 5 - Deploy <br>
+    &emsp; &emsp;| --> Deploy — 📁 Pasta contendo código para interface gráfica desenvolvida pelo grupo <br>
+    &emsp; &emsp;| --> Deploy — 📁 Pasta contendo notebooks para fazer deploy do modelo em nuvem (Google Colaboratory) <br>
+    &emsp; &emsp;| --> Deploy — Modelo LGBM, algorítmo de aprendizado de máquina que foi definido para fazer o modelo preditivo<br><br>
 | readme.md<br>
 
 - 📁 Projeto4<br>
 
 ## 🗃 Histórico de lançamentos (versões)
+- 10 - 04/10-2022 
+  - Revisão das secções 4.4 e 4.5, preenchimento das secções 5 e 6 e adição de um manual de usuário na seção "Anexos" 
+
+- 9.0 - 22/09/2022
+  - Alteração na seção 4.4 (Modelagem) 
 
 - 8.0 - 20/09/2022
-  - Alteração nas secções 4.4 (Modelagem) e 4.5 (Avaliação)
+  - Alteração na seção 4.5 (Avaliação)
 
 - 7.0 - 07/09/2022
   - Preenchimento das secções 4.4 (Modelagem) e 4.5 (Avaliação)
