@@ -6,12 +6,7 @@
 <br>
 
 # Rappi Hour Predctive Model
-
 ## Rappi Hour 
-<div align="center">
-<img src="https://files.tecnoblog.net/wp-content/uploads/2022/08/rappi-2022.jpg">
-<a href="https://tecnoblog.net/noticias/2022/08/25/rappi-corre-atras-do-ifood-com-cashback-e-descontos-para-entregadores/" target="_blank">Fonte: Tecnoblog</a>
-</div>
 
 ## 🚀 Integrantes:
 - <a href="https://www.linkedin.com/in/caio-m1849">Caio Martins de Abreu</a>
@@ -19,7 +14,7 @@
 - <a href="https://www.linkedin.com/in/marcos-florencio-ds/">Marcos Florencio</a>
 - <a href="https://www.linkedin.com/in/mateussda/">Mateus Almeida</a>
 - <a href="https://www.linkedin.com/in/raissa-sabino-2a00a11b1/">Raissa Sabino</a>
-- <a href="www.linkedin.com/in/sarah-ribeiro-361130195/">Sarah Ribeiro</a>
+- <a href="https://www.linkedin.com/in/sarah-ribeiro-361130195/">Sarah Ribeiro</a>
 <br>
 
 ## Descrição
@@ -30,23 +25,30 @@ Seu principal objetivo é facilitar o processo de análise dos colaboradores que
 
 ## 📁 Estrutura de pastas
 
-### Raiz<br>
-| --> Documentos<br>
-  &emsp;|  📁 Antigos (Versões anteriores) <br>
-  &emsp;|  PMD Grupo 4.pdf<br>
-  &emsp;|  PMD Grupo 4.docx<br><br>
-| --> Notebooks<br>
-  &emsp;| --> Sprint 1 — Análise Exploratória<br>
-  &emsp;| --> Sprint 2 — Feature Engineerig<br>
-  &emsp;| --> Sprint 3 — Modelos de Machine Learning Selecionados <br>
-  &emsp;| --> Sprint 4 — Modelos Selecionados com hiperparametrização, Validação Cruzada dos Modelos, Escolha do Modelo LGBM <br>
-  &emsp;| --> Sprint 5 - Deploy <br>
-    &emsp; &emsp;| --> Deploy — 📁 Pasta contendo código para interface gráfica desenvolvida pelo grupo <br>
-    &emsp; &emsp;| --> Deploy — 📁 Pasta contendo notebooks para fazer deploy do modelo em nuvem (Google Colaboratory) <br>
-    &emsp; &emsp;| --> Deploy — Modelo LGBM, algorítmo de aprendizado de máquina que foi definido para fazer o modelo preditivo<br><br>
+|--> documentos<br>
+  &emsp;| --> outros <br>
+  &emsp;| T3_G4_V1_0_Predictive_Model_Document.pdf<br>
+  &emsp;| T3_G4_V1_0_Predictive_Model_Document.ipynb.docx<br>
+|--> notebooks<br>
+  &emsp;|--> T3_G4_V1_0_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
+| license.txt
 
-- 📁 Projeto4<br>
+Dentre os arquivos presentes na raiz do projeto, definem-se:
+
+- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+
+- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
+
+## 💻 Execução dos projetos
+
+Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
+
+Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
+> Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
+
 
 ## 🗃 Histórico de lançamentos (versões)
 - 10 - 04/10-2022 
@@ -87,5 +89,3 @@ Seu principal objetivo é facilitar o processo de análise dos colaboradores que
 ## 📋 Licença
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M3T3/Projeto4">Rappi Hour Predictve Model</a> by <span property="cc:attributionName">INTELI, Caio Martins de Abreu, João Vitor Oliveira, Marcos Florencio, Mateus Almeida, Raissa Sabino, Sarah Ribeiro </span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
-
-## 📚 Referências
